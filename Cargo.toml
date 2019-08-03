@@ -4,6 +4,9 @@ version = "0.1.0"
 authors = ["Dawid Ciężarkiewicz <dpc@dpc.pw>"]
 license = "MPL-2.0"
 readme = "README.md"
+description = """
+An asynchronous readline-like interface
+"""
 
 [dependencies]
 mio = "0.6.1"
